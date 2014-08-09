@@ -1,0 +1,7 @@
+name: "Megathink"
+author: "Brandon Diamond"
+email: "brandon.t.diamond@gmail.com"
+markdown: redcarpet
+highlighter: pygments
+permalink: :title
+exclude: [README.md, LICENSE, Makefile]
