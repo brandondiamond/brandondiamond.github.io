@@ -11,6 +11,7 @@
       <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
       <link rel="icon" href="/favicon.ico" type="image/x-icon">
       <link rel="alternate" type="application/atom+xml" href="/atom.xml">
+      <script type="text/javascript" src="/js/share.min.js"></script>
       <title>Megathink</title>
    </head>
    
@@ -56,21 +57,37 @@
   <p>You've reached <a href="https://twitter.com/brandondiamond">Brandon Diamond's</a> internet website. <a href="/atom.xml">RSS feed.</a></p>
   
   <ul>
-    <li><span>&hearts;</span> <a href="https://twitter.com/brandondiamond">Get updates via Twitter</a> <img src="http://i.imgur.com/Tt267zE.gif"></img></li>
-    <li><span>&hearts;</span> <a href="https://github.com/brandondiamond">Get code via Github</a></li>
-    <li><span>&hearts;</span> <a href="mailto:brandon.t.diamond@gmail.com">Get answers via email</a></li>
+    <li><span>&rArr;</span> <a href="https://twitter.com/brandondiamond">Get updates via Twitter</a> <img src="http://i.imgur.com/Tt267zE.gif"></img></li>
+    <li><span>&rArr;</span> <a href="https://github.com/brandondiamond">Get code via Github</a></li>
+    <li><span>&rArr;</span> <a href="mailto:brandon.t.diamond@gmail.com">Get answers via email</a></li>
   </ul>
 </div>
 
 <div id="home">
    <h2>New Articles<a name="articles">&nbsp;</a></h2>
-   <ul class="posts">
-      
-      <li><span>&rArr; 19 Mar 2014</span> <a href="/welcome-to-jekyll">Welcome to Jekyll!</a></li>
-      
-   </ul>
+   <div class="text">
+     <ul class="posts">
+        
+        <li><span>19 Mar 2014</span> <a href="/welcome-to-jekyll">Welcome to Jekyll!</a></li>
+        
+     </ul>
+   </div>
 </div>
 
       </main>
+      <script type="text/javascript">
+        new Share(".share-button", {
+          title: "Megathink",
+          description: "Megathink",
+          ui: {
+            flyout: 'middle right'
+          },
+          networks: {
+            facebook: {
+              app_id: "117476512282"
+            }
+          }
+        });
+      </script>
    </body>
 </html>

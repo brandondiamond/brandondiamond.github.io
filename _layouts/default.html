@@ -11,6 +11,7 @@
       <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
       <link rel="icon" href="/favicon.ico" type="image/x-icon">
       <link rel="alternate" type="application/atom+xml" href="/atom.xml">
+      <script type="text/javascript" src="/js/share.min.js"></script>
       <title>{{ page.title }}</title>
    </head>
    
@@ -54,5 +55,19 @@
 
          {{ content }}
       </main>
+      <script type="text/javascript">
+        new Share(".share-button", {
+          title: "{{ page.title }}",
+          description: "{{ page.title }}",
+          ui: {
+            flyout: 'middle right'
+          },
+          networks: {
+            facebook: {
+              app_id: "117476512282"
+            }
+          }
+        });
+      </script>
    </body>
 </html>
