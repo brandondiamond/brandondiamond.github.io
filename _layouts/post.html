@@ -4,7 +4,13 @@ layout: default
 
 <article>
    <h2>{{ page.title }}</h2>
-   {{ content }}
+   <div class="text">
+    {{ content }}
+    <br />
+    <div class="comments">
+       <div class="fb-comments" data-href="http://megathink.com{{ page.url }}" data-numposts="5" data-colorscheme="light"></div>
+    </div>
+   </div>
 </article>
 
 <footer>
@@ -12,6 +18,6 @@ layout: default
       {{ page.date | date_to_string }}
    </div>
    <div id="return">
-      <a href="/">&laquo; Return home</a>
+      <a href="/">&laquo; Home</a>
    </div>
 </footer>

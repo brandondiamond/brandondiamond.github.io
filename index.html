@@ -3,13 +3,21 @@ layout: default
 title: Megathink
 ---
 
+<div class="page">
+  <p>You've reached <a href="https://twitter.com/brandondiamond">Brandon Diamond's</a> internet website. <a href="/atom.xml">RSS feed.</a></p>
+  
+  <ul>
+    <li><span>&hearts;</span> <a href="https://twitter.com/brandondiamond">Get updates via Twitter</a> <img src="http://i.imgur.com/Tt267zE.gif"></img></li>
+    <li><span>&hearts;</span> <a href="https://github.com/brandondiamond">Get code via Github</a></li>
+    <li><span>&hearts;</span> <a href="mailto:brandon.t.diamond@gmail.com">Get answers via email</a></li>
+  </ul>
+</div>
+
 <div id="home">
-   <p class="intro">You've reached <a href="https://twitter.com/brandondiamond">Brandon Diamond's</a> internet website. <a href="/atom.xml">Atom feed.</a></p>
-   
-   <h2>Articles</h2>
+   <h2>New Articles<a name="articles">&nbsp;</a></h2>
    <ul class="posts">
       {% for post in site.posts %}
-      <li><span>&gt; {{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><span>&rArr; {{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
    </ul>
 </div>

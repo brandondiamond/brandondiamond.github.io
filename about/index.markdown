@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About Brandon
+title: About me
 ---
 
-Under construction.
-
+(insert animated "under construction" GIF here!)
 
 ## Links
 

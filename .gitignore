@@ -1,3 +1,5 @@
+*.swp
+*.swo
 *.ignore
 *.lock
 _site/
