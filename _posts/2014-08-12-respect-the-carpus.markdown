@@ -8,7 +8,7 @@ It's always hard to get the ol' blog started up again so I figured I'd kick thin
 
 New programmers. You've got the skillz. You've got the codez. You've got the jobz. But you've also got a carpal tunnel which is awfully cramped... and, uh, prone to cramping.
 
-With all the recent (and wonderful) excitement about programming, it's important that folks remember that wrists are a delicate thing. You don't want an RSI "cramping your style" (sorry) &mdash; they're *much* more
+With all the recent (and wonderful) excitement about programming, it's important that folks remember that wrists are a delicate thing. You don't want an RSI "cramping your style" (sorry) &mdash; injuries are *much* more
 common than you'd think.
 
 The solution, luckily, is easy (and procrastinator-friendly!). Take a microbreak&mdash; 30 seconds oughta do it&mdash; every few minutes and an extended snack/healthy-life-decision break every half hour.
