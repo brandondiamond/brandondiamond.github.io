@@ -7,11 +7,11 @@ I've worn many hats in my day&mdash; and that's not just because of male pattern
 
 As a techie about town, I've done everything from [rallying](http://bits.blogs.nytimes.com/2012/01/18/techies-plan-to-take-sopa-protest-to-the-streets/) fellow hackers to [evangelizing](http://mongodb.com) database software and yes, I've even spent some time writing [code](http://huffingtonpost.com/code).
 
-Over the course of my adventures, I've often run into folks who'd like to engage the developer community. Many seek their (one true) tech co-founder. Others just want to hire a damn good engineer or two.
+Over the course of my adventures, I've often run into folks who'd like to engage the developer community. Many seek their (one true) tech co-founder. Others just want to hire a damn good engineer.
 
-To these folks, I've typically offered some advice: contribute to the engineering community and you'll meet awesome techies along the way. Give back to the community and the community will give back to you.
+To these folks, I've typically offered the same advice: contribute to the engineering community and you'll meet awesome techies along the way. Give back to the community and the community will give back to you.
 
-This, plus or minus a snarky tweet, has been the extent of what I've written on the topic. And I still think this advice makes sense.
+This, plus or minus a snarky tweet, has been the extent of what I've written on the topic.
 
 However, after a year of hiring engineers and running a tech bootcamp, I've found myself in the same position as my colleagues: I've had to hire a team of super talented developers. Like [Wenting](http://wentin.co) and [Jesse](http://toomanybees.com) and [Cedric](http://vvvnt.com).
 
