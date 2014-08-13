@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cat projects
+title: ls projects
 ---
 
 New project: fill out this darn page. Whoops.
