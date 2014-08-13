@@ -4,9 +4,7 @@ title: "Respect the Carpus"
 date: 2014-08-12 21:05:00
 ---
 
-It's always hard to get the ol' blog started up again so I figured I'd kick things off with a short, simple, and entirely uninspired post:
-
-New programmers. You've got the skillz. You've got the codez. You've got the jobz. But you've also got a carpal tunnel which is awfully cramped... and, uh, prone to cramping.
+New programmers. You've got the skills. You've got the syntax. You've even got the job. But you've also got a carpal tunnel which is awfully cramped... and, uh, prone to cramping.
 
 With all the recent (and wonderful) excitement about programming, it's important that folks remember that wrists are a delicate thing. You don't want an RSI "cramping your style" (sorry) &mdash; injuries are *much* more
 common than you'd think.
