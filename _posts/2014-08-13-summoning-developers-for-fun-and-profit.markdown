@@ -13,6 +13,8 @@ To these folks, I've typically offered the same advice: contribute to the engine
 
 This, plus or minus a snarky tweet, has been the extent of what I've written on the topic.
 
+![Hello baldness my old friend](http://i.imgur.com/6ZjCSvY.jpg)
+
 However, after a year of hiring engineers and running a tech bootcamp, I've found myself in the same position as my colleagues: I've had to hire a team of super talented developers. Like [Wenting](http://wentin.co) and [Jesse](http://toomanybees.com) and [Cedric](http://vvvnt.com).
 
 In putting my money where my mouth is, I've amassed something of an "evangelism playbook"&mdash; a collection of strategies that have helped me build a profoundly awesome team of generalist hackers while also giving back to the community.
