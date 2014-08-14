@@ -6,7 +6,9 @@ tags: labs
 
 Startups are really good at two things: moving quickly and making mistakes.
 
-The best startups are run by people who study their mistakes and [iterate often](https://www.leanstartupmachine.com/). Failure isn't just a possibility: it's a requirement. Can big companies do that, too? Can a behemoth like [Viacom](http://viacom.com) or [Aol](http://aol.com) or even [Hyatt Hotels](http://ariegoldshlager.wordpress.com/2013/07/22/hyatt-transforms-nine-hotels-into-inovation-labs/) throw caution to the wind and build cool shit? Sorta.
+The best startups are run by people who study their mistakes and [iterate often](https://www.leanstartupmachine.com/). Failure isn't just a possibility: it's a requirement. Can big companies do that, too? Can a behemoth like [Viacom](http://viacom.com) or [Aol](http://aol.com) or even [Hyatt Hotels](http://ariegoldshlager.wordpress.com/2013/07/22/hyatt-transforms-nine-hotels-into-inovation-labs/) throw caution to the wind and build cool shit?
+
+Sorta.
 
 For the past two years, I've helped launch and direct an embedded innovation lab called (uninventively enough) [HuffPost Labs](https://github.com/huffpostlabs). HuffPost, for those unfamiliar with the gory details, was acquired by Aol in 2011. This, in addition to several other things, helped turn HuffPost into a Matryoshka doll of corporate politics and, shall we say, shenanigans.
 
@@ -25,6 +27,8 @@ As a result, over the course of its 2-3 years, HuffPost Labs has gone through ma
 In the end, though politics bested us in many ways, we were successful in building a strategy for innovating at work. The solution turned out to be as elegant as it was obvious: though occasionally, the best practice turned out to be what you'd least expect.
 
 Encouraging innovation is an incredibly important goal for companies large and small. Unfortunately, most companies totally suck at innovation. And change. And critcism.
+
+![Dilbert gets it.](http://i.imgur.com/A6ZB7me.jpg)
 
 As a result, many large companies are stuck in a holding pattern of suckiness and will, in all likelihood, eventually find themselves trapped beneath the heel of a 16-year old wunderkind with a penchant for data structures and disruption.
 
