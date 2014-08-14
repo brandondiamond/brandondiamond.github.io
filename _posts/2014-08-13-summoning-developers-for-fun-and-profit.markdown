@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summoning Developers (For Fun and Profit)"
+tags: evangelism
 ---
 
 I've worn many hats in my day&mdash; and that's not just because of male pattern baldness. Well, not entirely.

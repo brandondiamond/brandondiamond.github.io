@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article>
-   <h2>{{ page.title }}</h2>
+   <h2>{% unless page.tags == empty %}<span class="tags">{{ page.tags }}</span>{% endunless %}{{ page.title }}</h2>
    <div class="text">
     {{ content }}
 
