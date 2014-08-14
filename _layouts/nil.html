@@ -2,8 +2,8 @@
 <html lang="en">
    <head>
       <meta charset="utf-8">
-      <meta name="description" content="">
-      <meta name="author" content="Brandon Diamond">
+      <meta name="description" content="{{ site.description }}">
+      <meta name="author" content="{{ site.author }}">
       <meta name="viewport" content="width=device-width">
       <link rel="stylesheet" href="/css/syntax.css">
       <link rel="stylesheet" href="/css/main.css">
@@ -12,7 +12,7 @@
       <link rel="icon" href="/favicon.ico" type="image/x-icon">
       <link rel="alternate" type="application/atom+xml" href="/atom.xml">
       <script type="text/javascript" src="/js/share.min.js"></script>
-      <title>Megathink</title>
+      <title>{{ page.title }}</title>
    </head>
    
    <body>
@@ -53,36 +53,12 @@
             </h1>
          </header>
 
-         <div class="page">
-  <p>You've reached <a href="https://twitter.com/brandondiamond">Brandon Diamond's</a> internet website. <a href="/atom.xml">Feed.</a></p>
-  
-  <ul>
-    <li><span>&rArr;</span> <a href="https://twitter.com/brandondiamond">Get updates via Twitter</a> <img src="http://i.imgur.com/Tt267zE.gif"></img></li>
-    <li><span>&rArr;</span> <a href="https://github.com/brandondiamond">Get code via Github</a></li>
-    <li><span>&rArr;</span> <a href="mailto:brandon.t.diamond@gmail.com">Get answers via email</a></li>
-  </ul>
-</div>
-
-<div id="home">
-   <h2>ls articles<a name="articles">&nbsp;</a></h2>
-   <div class="text">
-     <ul class="posts">
-        
-        <li><span>14 Aug 2014</span> <a href="/innovation-at-work">Innovation at Work</a> <span class="tags">labs</span></li>
-        
-        <li><span>13 Aug 2014</span> <a href="/summoning-developers-for-fun-and-profit">Summoning Developers (For Fun and Profit)</a> <span class="tags">evangelism</span></li>
-        
-        <li><span>12 Aug 2014</span> <a href="/respect-the-carpus">Respect the Carpus</a> <span class="tags"></span></li>
-        
-     </ul>
-   </div>
-</div>
-
+         {{ content }}
       </main>
       <script type="text/javascript">
         new Share(".share-button", {
-          title: "Megathink",
-          description: "Megathink",
+          title: "{{ page.title }}",
+          description: "{{ page.title }}",
           ui: {
             flyout: 'middle right'
           },
