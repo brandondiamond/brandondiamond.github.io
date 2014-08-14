@@ -143,8 +143,16 @@ header .nav a {
   font-size: 12px;
   line-height: 13px;
   overflow: visible;
-  width: 1000px;
+  min-width: 520px;
   padding: 0px;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .terminal {
+    font-size: 8px;
+    line-height: 8px;
+  }
 }
 
 hr {
