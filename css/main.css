@@ -107,11 +107,6 @@ h2 span.tags:after {
   content: "/";
 }
 
-/* Don't display date if screen is small */
-@media only screen and (max-width: 400px) {
-   .posts li span { display: none; }
-}
-
 main {
    font-size: 125%;
    text-align: left;
@@ -140,19 +135,36 @@ header .nav a {
 .terminal {
   font-family: "Courier New", Monospace;
   font-weight: normal;
+  overflow: visible;
+  padding: 0px;
+  text-shadow: 2px 2px 0px rgba(0, 0, 255, 0.8);
+}
+
+.terminal.desktop {
+  min-width: 50em;
   font-size: 12px;
   line-height: 13px;
-  overflow: visible;
-  min-width: 520px;
-  padding: 0px;
+}
+
+.terminal.mobile {
+  display: none;
+  font-size: 20px;
+  font-height: 20px;
 }
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-  .terminal {
-    font-family: Monospace;
-    font-size: 4px;
-    line-height: 4px;
+  .terminal.desktop {
+    display: none;
+  }
+
+  .terminal.mobile {
+    display: block;
+  }
+
+  .nav a {
+    font-size: 12px;
+    padding-right: 10px;
   }
 }
 
@@ -287,12 +299,15 @@ article img {
 }
 
 footer {
+  position: relative;
   margin-top: 10px;
-   height: 2.5em;
+  height: 2.5em;
 }
 
 footer #date {
-   float: right;
+  position: absolute;
+  right: 0px;
+  top: -20px;
 }
 
 footer #return,
