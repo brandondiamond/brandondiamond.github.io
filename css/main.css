@@ -137,7 +137,7 @@ header .nav a {
   font-weight: normal;
   overflow: visible;
   padding: 0px;
-  text-shadow: 2px 2px 0px rgba(0, 0, 255, 0.8);
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.8);
 }
 
 .terminal.desktop {
@@ -149,7 +149,7 @@ header .nav a {
 .terminal.mobile {
   display: none;
   font-size: 20px;
-  font-height: 20px;
+  line-height: 20px;
 }
 
 /* Smartphones (portrait and landscape) ----------- */
@@ -163,8 +163,8 @@ header .nav a {
   }
 
   .nav a {
-    font-size: 12px;
-    padding-right: 10px;
+    font-size: 10px;
+    padding-right: 6px;
   }
 }
 
