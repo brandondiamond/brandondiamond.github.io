@@ -13,4 +13,4 @@ I'm an active member of NYC's innovation community and an elected member of the 
 
 In early 2009, I founded a non-profit named nyhacker that would eventually become the [Hacker Union](http://hackerunion.org/), a distributed collective of hackers, designers, and makers dedicated to supporting and expanding developer communities throughout the world.
 
-My journey started with a particularly peppy [Quadra 660AV](http://www.myoldmac.net/webse-e-flash.htm) boasting a 28.8 Kbps connection to reality as well as a fresh install of HyperCard. After many years of geekdom, I went on to study Computer Science at Brown University where I wrote OS debugging tools and bad songs about <a href="http://cs.brown.edu/courses/cs173/2005/marker-hero.mp3">PLT Scheme</a>.
+My journey started with a particularly peppy [Quadra 660AV](http://www.myoldmac.net/webse-e-flash.htm) boasting a 28.8 Kbps connection and a fresh install of HyperCard. After many years of geekdom, I went on to study Computer Science at Brown University where I wrote OS debugging tools and bad songs about <a href="http://cs.brown.edu/courses/cs173/2005/marker-hero.mp3">PLT Scheme</a>.
