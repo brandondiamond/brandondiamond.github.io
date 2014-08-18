@@ -25,3 +25,7 @@ I've written many of these strategies down in the hopes of eventually sharing th
 Over the course of the next few months, I'll be posting 2 to 3 of these write-ups every week. If you're someone that'd like to engage the engineering community, hopefully you'll find these posts helpful. If not, hopefully you'll spend your time reading something cool like Dune or Snowcrash.
 
 I'll be tweeting each of these posts via [@brandondiamond](http://twitter.com/brandondiamond) so please follow to stay in the loop (*/shameless self-promotion*).  The first few posts'll be coming out later this week.
+
+## Published Posts
+
+**Strategy #1:** [Get Thee Online](/get-thee-online)
