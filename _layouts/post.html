@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<meta property="og:url" content="http://www.megathink.com{{ page.url }}" />
-
 <article>
    <h2>{% unless page.tags == empty %}<span class="tags">{{ page.tags }}</span>{% endunless %}{{ page.title }}</h2>
    <div class="text">
@@ -13,7 +11,7 @@ layout: default
     </div>
     
     <div class="comments">
-       <div class="fb-comments" data-href="http://www.megathink.com{{ page.url }}" data-numposts="5" data-colorscheme="light"></div>
+       <div class="fb-comments" data-numposts="10" data-colorscheme="light"></div>
     </div>
    </div>
 </article>
