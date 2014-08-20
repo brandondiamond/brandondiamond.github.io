@@ -16,12 +16,12 @@ What really makes Adventure Time stand out, however, isn't that it does a good j
 
 ![See?](http://i.imgur.com/8F2tVqD.gif)
 
-Set in the distant future after *our* world has been devastated by nuclear apocalypse, Adventure Time tackles the harshness of reality with all the enthusiasm and imagination of a badass 14-year old. Though things get hairy from time to time, silliness, kindness, and a measure of acceptance (almost) always deliver the heroes to victory.
+Set in the distant future after the earth has been devastated by nuclear apocalypse, Adventure Time tackles the harshness of reality with all the enthusiasm and imagination of a badass 14-year old. Though things get hairy from time to time, silliness, kindness, and a measure of acceptance (almost) always deliver the heroes to victory.
 
-Rather than presenting one edge of the sword, Adventure Time presents both: people can be cruel, depression can be crippling, and sometimes loved ones will leave us&mdash; but imagination, kindness, and positivity are great tools for moving forward.
+Rather than presenting just one edge of the sword, Adventure Time presents both: people can be cruel, depression can be crippling, and sometimes loved ones will leave us&mdash; but imagination, kindness, and positivity are great tools for moving forward.
 
-And while part of Adventure Time's allure is its portrayal of the very best of human (and non-human) kind, the show also embraces a measure of loss, pure evil, and unavoidable suffering. That's just life.
+And while part of Adventure Time's allure is its portrayal of the very best of human (and non-human) kind, the show also embraces a measure of loss, pure evil, and unavoidable suffering. That's life.
 
-Though just a show about a kid and his dog, Adventure Time promotes an unapologetically positive schematic for dealing with the harshness and occasional madness of existance: silliness. The show reminds us that while we can't control the world we live in, we can control the way we react to it&mdash; and controlling that can make a huge difference in how we *feel*.
+More than anything else, Adventure Time provides an unapologetically positive schematic for dealing with the harshness and occasional madness of existance via&hellip; silliness. The show reminds us that while we can't control the world we live in, we can control the way we react to it&mdash; and controlling that can make a huge difference in how we *feel*.
 
 Homies help homies, y'know?
