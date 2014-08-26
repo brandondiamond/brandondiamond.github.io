@@ -4,7 +4,7 @@ title: "Ode To Adventure Time"
 date: 2014-08-20 17:04:00
 ---
 
-This is, ostensibly, a technical blog&mdash; so it might seem strange for me to write about Adventure Time. And it is&hellip; but who cares.
+This is, allegedly, a technical blog&mdash; so it might seem strange for me to write about Adventure Time. And it is&hellip; but who cares.
 
 For those allergic to cartoons, Adventure Time is an animated series on Cartoon Network created by [Pendleton Ward](http://buenothebear.com/) and ostensibly directed at children.
 
